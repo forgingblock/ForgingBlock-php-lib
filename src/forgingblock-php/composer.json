@@ -1,0 +1,16 @@
+{
+    "name": "senthil/forgingblock-php",
+    "description": "ForgingBlock PHP API library",
+    "minimum-stability": "stable",	
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=5.6.9",
+        "rmccue/requests": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Forgingblock\\": "src/"
+        }
+    }
+}
