@@ -1,6 +1,6 @@
 {
     "name": "forgingblock/forgingblock-php",
-    "description": "ForgingBlock PHP API library",
+    "description": "ForgingBlock Crypto Payment Gateway PHP API library",
     "minimum-stability": "stable",	
     "type": "library",
     "license": "Apache-2.0",
